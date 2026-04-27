@@ -8,6 +8,7 @@ trigger:
 
 pool:
   name: 'Example'
+  
 
 steps:
 - task: Maven@4
